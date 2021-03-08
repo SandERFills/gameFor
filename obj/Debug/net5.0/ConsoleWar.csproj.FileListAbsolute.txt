@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\ConsoleWar\obj\Debug\net5.0\ConsoleWar.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\ConsoleWar\obj\Debug\net5.0\ConsoleWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\ConsoleWar\obj\Debug\net5.0\ConsoleWar.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\ConsoleWar\obj\Debug\net5.0\ConsoleWar.AssemblyInfo.cs
+C:\Users\salag\source\repos\ConsoleWar\obj\Debug\net5.0\ConsoleWar.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\ConsoleWar\bin\Debug\net5.0\ConsoleWar.exe
+C:\Users\salag\source\repos\ConsoleWar\bin\Debug\net5.0\ConsoleWar.deps.json
+C:\Users\salag\source\repos\ConsoleWar\bin\Debug\net5.0\ConsoleWar.runtimeconfig.json
+C:\Users\salag\source\repos\ConsoleWar\bin\Debug\net5.0\ConsoleWar.runtimeconfig.dev.json
+C:\Users\salag\source\repos\ConsoleWar\bin\Debug\net5.0\ConsoleWar.dll
+C:\Users\salag\source\repos\ConsoleWar\bin\Debug\net5.0\ref\ConsoleWar.dll
+C:\Users\salag\source\repos\ConsoleWar\bin\Debug\net5.0\ConsoleWar.pdb
+C:\Users\salag\source\repos\ConsoleWar\obj\Debug\net5.0\ConsoleWar.dll
+C:\Users\salag\source\repos\ConsoleWar\obj\Debug\net5.0\ref\ConsoleWar.dll
+C:\Users\salag\source\repos\ConsoleWar\obj\Debug\net5.0\ConsoleWar.pdb
+C:\Users\salag\source\repos\ConsoleWar\obj\Debug\net5.0\ConsoleWar.genruntimeconfig.cache
