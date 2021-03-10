@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\salag\\.nuget\\packages\\": {}
+    "C:\\Users\\babich.vr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\salag\\source\\repos\\ConsoleWar\\ConsoleWar.csproj",
+      "projectUniqueName": "D:\\babich\\games\\gameFor\\ConsoleWar.csproj",
       "projectName": "ConsoleWar",
-      "projectPath": "C:\\Users\\salag\\source\\repos\\ConsoleWar\\ConsoleWar.csproj",
-      "packagesPath": "C:\\Users\\salag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\salag\\source\\repos\\ConsoleWar\\obj\\",
+      "projectPath": "D:\\babich\\games\\gameFor\\ConsoleWar.csproj",
+      "packagesPath": "C:\\Users\\babich.vr\\.nuget\\packages\\",
+      "outputPath": "D:\\babich\\games\\gameFor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\salag\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\babich.vr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

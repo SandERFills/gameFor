@@ -4,18 +4,19 @@ namespace behaviorOne
 {
     public class Actor
     {
-        private string heroName;
-        private int healhPoints;
-        private int damage;
+        public string heroName;
+        public int healhPoints;
+        public int damage;
         public Actor(){}
         public Actor(string name,int hp,int dmg){
                 this.heroName = name;
                 this.healhPoints=hp;
-                this.damage=dmg;
-Console.WriteLine(heroName);
+                this.damage=dmg;    
+
         }
-        public void PrintName(){
+        public string PrintName(){
+        return heroName;
+        }
         
-        }
     }
 }
